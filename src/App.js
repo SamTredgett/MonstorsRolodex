@@ -5,6 +5,8 @@ import { SearchBox } from './components/search-box/search-box.component.jsx';
 import './App.css';
 
 
+ // This is on the new-branch
+
 class App extends Component {
   constructor() {
     super();
